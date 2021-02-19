@@ -1,9 +1,9 @@
-Панель инструментов, панель быстрого доступа и.т.п
+Toolbar, Quick Access Toolbar, etc.
 ================
 
-Панель инструментов на главной странице администратора, очень хорошо подходит для организации ссылок на 
-часто посещаемые разделы.
+The dashboard on the admin home page is very good for organizing links to
+frequently visited sections.
 
 Install
 ================
-Скачиваем модуль, и загрузить его в папку с opencart
+Download the module and upload it to the opencart folder 
